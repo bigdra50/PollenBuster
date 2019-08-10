@@ -6,7 +6,7 @@
 https://twitter.com/bigdra50/status/1114155868713439232
 
 # 利用アセットなど
-アセットストアからインポートする必要があります.
+アセットストアからインポートする必要があります.  
 Standard Assets https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-32351  
 Unity Particle Pack 5.x https://assetstore.unity.com/packages/essentials/asset-packs/unity-particle-pack-5-x-73777  
 Cartoony Spruces https://assetstore.unity.com/packages/3d/characters/cartoony-spruces-105299  
